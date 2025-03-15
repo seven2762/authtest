@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+service:
+  jwt:
+    secret-key: ckppb01QcG1FWTFyU2JOWjJvMkJGenVaT2h1SjFVd3k=
