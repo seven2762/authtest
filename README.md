@@ -2,6 +2,16 @@
 
 이 프로젝트는 사용자 관리 기능을 제공하는 RESTful API 서비스입니다. 사용자 등록, 로그인, 권한 관리 등의 기능을 제공합니다.
 
+API 엔드포인트 URL
+
+ http://52.79.228.112
+
+API 문서화
+Swagger UI
+프로젝트는 OpenAPI 3.0(Swagger)를 사용하여 API가 문서화되어 있습니다.
+
+Swagger UI 주소: 52.79.228.112/swagger-ui/index.html
+
 ## 주요 기능
 
 1. 사용자 등록 (일반 사용자 및 관리자)
